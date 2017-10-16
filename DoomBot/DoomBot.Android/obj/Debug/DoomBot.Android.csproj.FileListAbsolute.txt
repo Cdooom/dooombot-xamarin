@@ -1,0 +1,114 @@
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\DoomBot.Android.csprojResolveAssemblyReference.cache
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\DoomBot.Android.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\DoomBot.Android.pdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\com.companyname.DoomBot.apk
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\com.companyname.DoomBot-Signed.apk
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\DoomBot.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\DoomBot.pdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\DoomBot.Android.csproj.CoreCompileInputs.cache
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\DoomBot.Android.dll
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\DoomBot.Android.pdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\android\bin\com.companyname.DoomBot.apk
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\res\drawable\icon.png
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\res\values\styles.xml
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\R.cs.flag
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\uploadflags.txt
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\DoomBot.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\bin\Debug\DoomBot.Android.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\android\assets\DoomBot.Android.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\android\assets\DoomBot.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\GMG\Documents\Visual Studio 2017\Projects\DoomBot\DoomBot\DoomBot.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\DoomBot.Android.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\DoomBot.Android.pdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\com.companyname.DoomBot.apk
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\com.companyname.DoomBot-Signed.apk
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\DoomBot.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\DoomBot.pdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\DoomBot.Android.csprojResolveAssemblyReference.cache
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\DoomBot.Android.csproj.CoreCompileInputs.cache
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\DoomBot.Android.dll
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\DoomBot.Android.pdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\android\bin\com.companyname.DoomBot.apk
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\res\drawable\icon.png
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\res\values\styles.xml
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\R.cs.flag
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\uploadflags.txt
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\DoomBot.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\bin\Debug\DoomBot.Android.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\android\assets\DoomBot.Android.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\android\assets\DoomBot.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\cdoan\Desktop\DoomBot-master\DoomBot\DoomBot.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DoomBot.RegisterPage">
+    <ContentPage.Content>
+        <ScrollView Orientation="Vertical" Padding="0" HorizontalOptions="FillAndExpand">
+            <StackLayout>
+                <Label Text="Create an account"
+                    VerticalOptions="StartAndExpand" 
+                    HorizontalOptions="CenterAndExpand"
+                    TextColor="Black"
+                    FontSize="Large"/>
+                <Entry Keyboard="Text" Placeholder="First Name"/>
+                <Entry Keyboard="Text" Placeholder="Middle Name"/>
+                <Entry Keyboard="Text" Placeholder="Last Name"/>
+                <Entry Keyboard="Text" Placeholder="Address"/>
+                <Entry Keyboard="Text" Placeholder="Apartment/Suite"/>
+                <Label Text="Date of Birth"/>
+                <DatePicker DateSelected="DatePicker_DateSelected">
+                    <DatePicker.Format>MM-dd-yyyy</DatePicker.Format>
+                </DatePicker>
+                <Entry Keyboard="Email" Placeholder="Email"/>
+                <Entry Keyboard="Text" Placeholder="User Name"/>
+                <Entry IsPassword="True" Keyboard="Text"  Placeholder="Password"/>
+                <Button Text="Submit" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Clicked="Submit_ClickedAsync"/>
+            </StackLayout>
+        </ScrollView>
+
+
+    </ContentPage.Content>
+</ContentPage>
